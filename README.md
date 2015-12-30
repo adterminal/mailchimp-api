@@ -7,15 +7,13 @@ This lets you get from the MailChimp API docs to the code as directly as possibl
 
 Requires PHP 5.3 and a pulse. Abstraction is for chimps.
 
-*API v3:* If you are using this v3 branch successfully, please let me know so I can consider making it the master branch.
-
 Installation
 ------------
 
 You can install mailchimp-api v3 dev branch using Composer:
 
 ```
-composer require adtermiinal/mailchimp-api:dev-master
+composer require adterminal/mailchimp-api:dev-master
 ```
 
 You will then need to:
